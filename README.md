@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rj-4803&label=Profile%20views&color=0e75b6&style=flat" alt="rj-4803" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rj-4803" alt="rj-4803" /></a> </p>
 
 - 🔭 I’m currently studying at **Sabaragamuwa University of Sri Lanka**
 
